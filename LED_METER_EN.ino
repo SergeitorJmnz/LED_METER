@@ -48,13 +48,13 @@ void loop() {
  delay(400);                  //wait for 0.4 seconds
  
  digitalWrite(blue2,HIGH);    //eturn on the blue LED 3
- delay(500);                  //wait for 0.4 seconds
+ delay(500);                  //wait for 0.5 seconds
  
  
  digitalWrite(red,HIGH);      //turn on the red LED
  delay(2000);                 //wait for 2 seconds
  digitalWrite(red,LOW);       //turn off the red LED
- delay(50);                   //wait for 0.5 seconds
+ delay(50);                   //wait for 0.05 seconds
  
  digitalWrite(blue2,LOW);     //turn off the other LEDs
  delay(50);
