@@ -9,7 +9,7 @@ Los comentarios en el código están es español.
 Subiré el código completo, el esquemático del circuito y los comentarios en inglés tan pronto como me sea posible.
 
 Espero que disfrutes!
-
+__________________________________________________________________________________________________________________________________________
 
 I created this LED meter for arduino while I was doing test programs for a class exercise. My intention is to continue this program and make a pulse meter.
 
