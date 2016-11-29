@@ -4,7 +4,7 @@
 
 He creado este medidor LED mientras hacía programas de prueba para un ejercicio de clase. Mi intención es continuar este programa y hacer un medidor de pulso.
 
-Los comentarios en el código están es español.
+Los comentarios en el código están en español.
 
 Subiré el código completo, el esquemático del circuito y los comentarios en inglés tan pronto como me sea posible.
 
